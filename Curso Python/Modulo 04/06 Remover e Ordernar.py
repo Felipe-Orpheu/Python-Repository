@@ -7,9 +7,11 @@ print(lista)
 #del lista - para deletar a lista enteira.
 #del lista[0] - para deletar um valor expecifico dentro da lista.    
 
-"""carrinho_de_compras = ["pão", "carne", "verduras", "alface"]
+"""
+carrinho_de_compras = ["pão", "carne", "verduras", "alface"]
 carrinho_de_compras.clear #apaga todos os elementos, mas nao o index em si.
-carrinho_de_compras.sort() #ordenação em ordem crescente"""
+carrinho_de_compras.sort() #ordenação em ordem crescente
+"""
 
 """
 lista = [1, 50, 23, 67, 100]
