@@ -37,6 +37,8 @@ operacao = input("Por favor escolha o que ira fazer (+, -, *, /): ")
 n1 = int(input("Digite um numero para calcular: "))
 n2 = int(input("Digite outro numero para calcular: "))
 
+print("-"*30, "Resultado", "-"*30)
+
 if operacao == '+': 
     print(f'{n1} + {n2}')
     print(n1 + n2)
